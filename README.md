@@ -142,11 +142,11 @@ Feel free to reach out if you’d like to discuss:
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coderatwork-7&theme=dracula&show_icons=true&hide_border=true" alt="Waqas Ahmad's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=wahmad-2024&theme=dracula&show_icons=true&hide_border=true" alt="Waqas Ahmad's GitHub stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderatwork-7&theme=dracula&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahmad-2024&theme=dracula&hide_border=true" alt="GitHub Streak"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderatwork-7&theme=dracula&layout=compact&hide_border=true" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahmad-2024&theme=dracula&layout=compact&hide_border=true" alt="Top Langs"/>
 </div>
 
 ---
